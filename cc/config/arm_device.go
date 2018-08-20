@@ -73,7 +73,6 @@ var (
 	armArmCflags = []string{
 		"-O2",
 		"-fomit-frame-pointer",
-		"-fstrict-aliasing",
 		"-funswitch-loops",
 	}
 
